@@ -98,6 +98,8 @@ vsftpd 2.3.4	Upgrade to version 3.0.5
 OpenSSH 4.7p1	Upgrade to OpenSSH 9.6
 Java RMI	Disable or restrict via firewall
 R Services	Remove or disable deprecated services
+
+
 🎓 Major Learnings
 Conducted deep network scans using Nmap
 Performed real-world exploitation with Metasploit
